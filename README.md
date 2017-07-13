@@ -18,5 +18,7 @@ This Amazon-like storefront CLI APP with the MySQL database. The app will take i
          ![e613abf6ea47baf56891264d069dd1f0](https://user-images.githubusercontent.com/12620590/28159029-7661b0fc-6770-11e7-83e8-40ac0d8d9d38.gif)
 
        * View Low Inventory
-       * Add to Inventory
+       
+       
+       * Add to Inventory
        * Add New Product
