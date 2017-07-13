@@ -1,0 +1,33 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon like site in node",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqupriyanka/bamazon.git"
+  },
+  "keywords": [
+    "customer",
+    "manager",
+    "supervisor"
+  ],
+  "author": "Priyanka Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqupriyanka/bamazon/issues"
+  },
+  "homepage": "https://github.com/aqupriyanka/bamazon#readme",
+  "dependencies": {
+    "cfonts": "^1.1.3",
+    "chalk": "^2.0.1",
+    "colors": "^1.1.2",
+    "inquirer": "^3.2.0",
+    "mysql": "^2.13.0",
+    "prompt": "^1.0.0",
+    "tec-table": "^1.0.1"
+  }
+}
