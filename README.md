@@ -21,7 +21,7 @@ This Amazon-like storefront CLI APP with the MySQL database. The app will take i
        * View Low Inventory
        
        
-      
+      ![e613abf6ea47baf56891264d069dd1f0](https://user-images.githubusercontent.com/12620590/28159525-12eb26fa-6772-11e7-8bc3-20de10024306.gif)
       
       
       
