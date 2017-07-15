@@ -3,7 +3,7 @@
 
 Welcome to the bamazon wiki!
 
-This Amazon-like storefront CLI APP with the MySQL database. The app will take in orders from customers and can be managed by a manager/supervisor. This app is accessed by 3 types of users: Customer, Manager, and Supervisor.
+This is an Amazon-like storefront CLI APP with the MySQL database. The app will take in orders from customers and can be managed by a manager/supervisor. This app is accessed by 3 types of users: Customer, Manager, and Supervisor.
 
 # Different Functionalities of Each User:
 
